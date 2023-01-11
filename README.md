@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on website buiding to gain some experience
 - 📫 How to reach me Email : aminjash42@gmail.com
+-jnl
 
 <!---
 Aminjash32/Aminjash32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
